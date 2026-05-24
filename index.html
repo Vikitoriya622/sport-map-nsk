@@ -780,7 +780,8 @@ map.addLayer(layer__14);
         }
         map.createPane('pane__16'); map.getPane('pane__16').style.zIndex = 416; map.getPane('pane__16').style['mix-blend-mode'] = 'normal';
         var layer__16 = new L.geoJson(json__16, { attribution: '', interactive: true, dataVar: 'json__16', layerName: 'layer__16', pane: 'pane__16', onEachFeature: pop__16, style: style__16_0 });
-        bounds_group.addLayer(layer__16); map.addLayer(layer__16);
+        bounds_group.addLayer(layer__16);
+            // map.addLayer(layer__16);   // ← ЗАКОММЕНТИРОВАНО 
 
         // Слой 17 (Автовокзалы)
         function pop__17(feature, layer) {
