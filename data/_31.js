@@ -1,0 +1,19 @@
+var json__31 = {
+"type": "FeatureCollection",
+"name": "_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "19", "name": "Школа лыжных гонок", "sport": "лыжные спорт", "adress": "ул. Тимирязева 5", "region": "Заельцовский район", "filial": null, "metro": "Заельцовская", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.874333511802831, 55.049795867224304 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Лыжная база им. Виктора Маматова", "sport": "лыжный спорт", "adress": "ул. Охотская 86/3", "region": "Заельцовский район", "filial": null, "metro": "Заельцовская", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.895522729425082, 55.122040019106002 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "МАУДО СШ ЦЗВС", "sport": "лыжные спорт", "adress": "ул. Лаврова 9", "region": "Первомайский район", "filial": null, "metro": null, "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 83.107228812949501, 54.961840959244491 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Сибирь", "sport": "лыжные спорт", "adress": "ул. Западная, 2а", "region": "Кировский район", "filial": null, "metro": "Площадь Маркса", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.929122644164565, 54.97595791170879 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Заря", "sport": "лыжные спорт", "adress": "ул. Саввы Кожевникова, 39а", "region": "Кировский район", "filial": null, "metro": "Площадь Маркса", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.957509944203153, 54.970584903269497 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Альбатрос", "sport": "лыжные спорт", "adress": "ул. Выборная 91а к1", "region": "Октябрьский район", "filial": null, "metro": null, "Ж/К": "Энергостроителей ж/м" }, "geometry": { "type": "Point", "coordinates": [ 82.998171373380785, 54.998706861584537 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Лыжная база им. Алика Тульского", "sport": "лыжные спорт", "adress": "ул. Ионосферная 3", "region": "Советский район", "filial": null, "metro": null, "Ж/К": "Верхняя зона Академгородка м-н" }, "geometry": { "type": "Point", "coordinates": [ 83.121485890179898, 54.841343562672634 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "\"Динамо\"", "sport": "лыжные спорт", "adress": "ул. Дачное шоссе 4", "region": "Заельцовский район", "filial": null, "metro": "Заельцовская", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.812137351090001, 55.073878922848941 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "Новосибирский стрелочный завод", "sport": "лыжные спорт", "adress": "ул. Аксенова 7к2", "region": "Первомайскиий район", "filial": null, "metro": null, "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 83.074823914615848, 54.966735089396884 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "\"Сибирь\"", "sport": "лыжные спорт", "adress": "ул. Немировича-Данченко 162б", "region": "Кировский район", "filial": null, "metro": "Студенческая, Спортивная", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.927034937894589, 54.997838909761114 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "НГУ", "sport": "лыжные спорт", "adress": "ул. Пирогова 12", "region": "Советский район", "filial": null, "metro": null, "Ж/К": "​Верхняя зона Академгородка м-н" }, "geometry": { "type": "Point", "coordinates": [ 83.095238627472284, 54.847085218983587 ] } },
+{ "type": "Feature", "properties": { "id": "19", "name": "\"Снежные барсы\"", "sport": "лыжный спорт", "adress": "ул. Биатлонная 1к2", "region": "Дзержинский район", "filial": null, "metro": null, "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 83.042143192288137, 55.055369860636389 ] } }
+]
+}

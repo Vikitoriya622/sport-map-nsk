@@ -1,0 +1,18 @@
+var json__44 = {
+"type": "FeatureCollection",
+"name": "_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "6", "name": "СДЮШОР по восточным единоборствам", "sport": "тэхвандо", "adress": "ул. Халтурина 26", "region": "Ленинский район", "metro": "Площадь Маркса", "filial": null, "Ж/К": "Западный м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.823449899974861, 54.987556391471713 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Академия чемпионов", "sport": "тэхвандо", "adress": "ул. Бориса Богаткова 266/3", "region": "Дзержинский район", "metro": "Золотая Нива", "filial": null, "Ж/К": "Золотая Нива м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.987017914168092, 55.042421532098118 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "СК \"Обь\"", "sport": "тэхвандо", "adress": "ул. Станиславского 6б", "region": "Ленинский район", "metro": "Площадь Маркса", "filial": null, "Ж/К": "Сад Кирова м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.869443877179023, 54.988213151614168 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Спутник", "sport": "тэхвандо", "adress": "ул. Варшавская 12", "region": "Советский район", "metro": null, "filial": null, "Ж/К": "​ОбьГЭС м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.9684664401872, 54.861829507345753 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "\"Лион\"", "sport": "тэхвандо", "adress": "ул. Бердышева 15", "region": "Советский район", "metro": null, "filial": "школа №165", "Ж/К": "ОбьГЭС м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.966109388962252, 54.863356008875535 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Академия чемпионов", "sport": "тэхвандо", "adress": "ул. Часовая 2к1", "region": "Советский район", "metro": null, "filial": null, "Ж/К": "ул. Часовая 2к1" }, "geometry": { "type": "Point", "coordinates": [ 82.98883760637203, 54.866062730276305 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Единство", "sport": "тэхвандо", "adress": "ул. Вертковская 16", "region": "Кировский район", "metro": "Площадь Маркса", "filial": "школа №109", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.887913276551529, 54.976829039943624 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Единство", "sport": "тэхвандо", "adress": "ул. Станиславского 30", "region": "Ленинский район", "metro": "Площадь Маркса", "filial": "школа №20", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.871986573167632, 54.973072960860442 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Единство", "sport": "тэхвандо", "adress": "ул. Пархоменко 2", "region": "Ленинский район", "metro": "Площадь Маркса", "filial": "Гимназия №16", "Ж/К": "Сад Кирова м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.881098618273427, 54.988678988102443 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Единство", "sport": "тэхвандо", "adress": "ул. Тролейная 22/1", "region": "Ленинский район", "metro": "Площадь Маркса", "filial": null, "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.85596403000163, 54.989967289866428 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Единство", "sport": "тэхвандо", "adress": "ул. Новоуральская 11/3", "region": "Калининский район", "metro": null, "filial": "школа №34", "Ж/К": "Пашино м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.964982069201056, 55.173649887482554 ] } }
+]
+}

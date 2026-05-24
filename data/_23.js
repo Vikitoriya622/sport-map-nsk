@@ -1,0 +1,18 @@
+var json__23 = {
+"type": "FeatureCollection",
+"name": "_23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "15", "name": "Муниципальная спортивная школа по бильярдному спорту", "sport": "бильярд", "adress": "ул. Вокзальная магистраль 16", "region": "Железнодорожный район", "filial": null, "metro": "Площадь Ленина", "Ж/К": "Тихий центр м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.914078911814826, 55.031388964025574 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "\"5 элементов\"", "sport": "бильярд", "adress": "ул. Гоголя 42", "region": "Центральный район", "filial": null, "metro": "Маршала Покрышкина", "Ж/К": "​Фрунзенский м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.940370486426559, 55.043920808647599 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "\"Золотой шар\"", "sport": "бильярд", "adress": "ул. Красный проспект 86", "region": "Центральный район", "filial": null, "metro": "Гагаринская", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.915881229791907, 55.049109447034937 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "\"Бочка\"", "sport": "бильярд", "adress": "ул.Романова 28", "region": "Центральный район", "filial": null, "metro": "Площадь Ленина", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.917246403722118, 55.034366380219183 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "\"Карамболь\"", "sport": "бильярд", "adress": "ул. Станиславского 34", "region": "Ленинский район", "filial": null, "metro": "Площадь Маркса", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.87251594319126, 54.971586110747694 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "ДК им А.С. Попова", "sport": "бильярд", "adress": "ул. Добролюбова 12", "region": "Октябрьский район", "filial": null, "metro": "Речной вокзал", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.949074315871272, 55.00708635246577 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "Бар-бильярд", "sport": "бильярд", "adress": "ул. Обогодительная 4", "region": "Кировский район", "filial": null, "metro": "Площадь Маркса", "Ж/К": "Бугринская роща м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.952464263142019, 54.966061142501758 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "Абриколь", "sport": "бильярд", "adress": "ул. Арбузова 11", "region": "Советский район", "filial": null, "metro": null, "Ж/К": "Нижняя зона Академгородка м-н" }, "geometry": { "type": "Point", "coordinates": [ 83.091364917235921, 54.866594709156878 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "Шарокатица", "sport": "бильярд", "adress": "ул. Челюскинцев, 21", "region": "Железнодорожный район", "filial": null, "metro": null, "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.908667865659822, 55.041926647783484 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "Сенат", "sport": "бильярд", "adress": "ул. Советская 37", "region": "Центральный район", "filial": null, "metro": "Площадь Ленина", "Ж/К": "Тихий центр м-н" }, "geometry": { "type": "Point", "coordinates": [ 82.918731745413766, 55.034443696859668 ] } },
+{ "type": "Feature", "properties": { "id": "15", "name": "Свяок", "sport": "бильярд", "adress": "ул. Инская 37", "region": "Октябрьский район", "filial": null, "metro": "Речной вокзал", "Ж/К": null }, "geometry": { "type": "Point", "coordinates": [ 82.9312409658815, 55.01248144359252 ] } }
+]
+}
